@@ -16,4 +16,4 @@ for m in x:
     y1=a(m)
     y.append(y1)
 plt.plot（X，Y）
-![图片]https://github.com/maer3/zuoye/blob/master/QQ%E6%88%AA%E5%9B%BE20181025134213.png
+![结果]https://github.com/maer3/zuoye/blob/master/QQ%E6%88%AA%E5%9B%BE20181025134213.png
